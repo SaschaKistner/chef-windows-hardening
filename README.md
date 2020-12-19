@@ -1,5 +1,7 @@
 # windows-hardening (Chef Cookbook)
 
+abcabcabc
+
 This cookbook provides recipes for ensuring that a Windows 2012 R2 system is compliant with the [DevSec Windows Baseline](https://github.com/dev-sec/windows-baseline).
 
 ### Platforms
